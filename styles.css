@@ -203,10 +203,32 @@ P{
     font-size: 12px;
     font-family: 'Trirong', serif;
     font-weight: lighter
+}ol{
+    list-style: none;
+  
 }
     .list{
         display: inline-block;
+        margin-right: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'Bebas Neue', cursive;
+        display: flex;
+        /* justify-content:space-between; */
+
+        position: absolute;
+        top:20px;
+        left:570px;
+        z-index:1;
         
     } 
-   
+   .head{
+      padding: 40px;
+      padding-left: 0;
+   }
+   .head1{
+    padding-left: 40px;
+    padding-top: 35px;
+    color:grey;
+   }
 }
