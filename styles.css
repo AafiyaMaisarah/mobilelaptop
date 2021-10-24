@@ -198,7 +198,7 @@ button{
 P{
     position: absolute;
     top:440px;
-    left:215px;
+    left:280px;
     color: hsl(231,7%,65%);
     font-size: 12px;
     font-family: 'Trirong', serif;
@@ -224,11 +224,11 @@ P{
     } 
    .head{
       padding: 40px;
-      padding-left: 0;
+      
    }
    .head1{
     padding-left: 40px;
-    padding-top: 35px;
+    padding-top: 40px;
     color:grey;
    }
 }
