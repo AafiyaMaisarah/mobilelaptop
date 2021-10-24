@@ -3,7 +3,7 @@
     padding:0;
     box-sizing: border-box;
 }
-ol{
+.list{
     display: none;
 }
 .logo{
@@ -112,8 +112,18 @@ P{
         display:none;
     }
     .fas{
-        display: none;
+        display:none;
     }
+    .deskimg{
+        width:70vw;
+        height: 50vh;
+        display:inline-block;
+        position: absolute;
+        top:160px;
+        left: 455px;
+        z-index:1
+    }
+    
     .logo{
         margin:20px;
         padding:20px;
@@ -124,24 +134,79 @@ P{
         width:100vw;
     height:56vh;
     background-color:hsl(207,33%,95%);
-    border-radius: 30px;
+    border-radius: 50px;
     display: inline-block;
     position:absolute;
-    top:-20px;
-    left:220px;
+    top:-96px;
+    left:445px;
     z-index:0;
+   }
+   .new{
+    width:50px;
+    height:25px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top:180px;
+    left:49px;
+    border-radius: 20px;
+    border: 0;
+}
+.mono{
+    color: hsl(231,7%,65%);
+    font-family: 'Trirong', serif;
+     position: absolute;
+    top:182px;
+    left:109px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size:12px;
+}
+.power{
+    position: absolute;
+    top:210px;
+    left:4px;
+    font-family: 'Bebas Neue', cursive;
    
-     
-    }
-    
+    font-size: 50px;
+    margin-left: 50px;
+}
+.plan{
+    position: absolute;
+    top:350px;
+    left:54px;
+    /* font-family: 'Trirong', serif; */
+    color: hsl(231,7%,65%);
+    font-size: 16px;
+    display: inline-block;
+}
+button{
+    width:15vw;
+    height: 5vh;
+    border-radius: 5px;
+    position: absolute;
+    top:430px;
+    left:50px;
+    background-color:hsl(0,100%,68%); ;
+    color: honeydew;
+    border: 1px solid hsl(0,100%,68%);
+    font-size: 10px; 
+    /* font-family: 'Trirong', serif; */
+    font-weight: bold;
+
+}
+P{
+    position: absolute;
+    top:440px;
+    left:215px;
+    color: hsl(231,7%,65%);
+    font-size: 12px;
+    font-family: 'Trirong', serif;
+    font-weight: lighter
+}
     .list{
         display: inline-block;
         
     } 
-   .deskimg{
-       position: absolute;
-       top:0;
-       left:0;
-       z-index:1;
-   }
+   
 }
