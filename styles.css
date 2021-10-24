@@ -57,7 +57,7 @@ margin-left:48px;
     font-family: 'Trirong', serif;
     /* font-family: 'Cormorant Garamond', serif; */
     position: absolute;
-    top:398px;
+    top:417px;
     left:109px;
     letter-spacing: 2px;
     font-weight: lighter;
@@ -65,15 +65,15 @@ margin-left:48px;
 }
 .power{
     position: absolute;
-    top:430px;
+    top:450px;
     font-family: 'Bebas Neue', cursive;
     font-size: 30px;
     margin-left: 50px;
 }
 .plan{
     position: absolute;
-    top:516px;
-    left:50px;
+    top:535px;
+    left:80px;
     /* font-family: 'Trirong', serif; */
     color: hsl(231,7%,65%);
     font-size: 16px;
@@ -84,7 +84,7 @@ button{
     height: 5vh;
     border-radius: 5px;
     position: absolute;
-    top:568px;
+    top:630px;
     left:50px;
     background-color:hsl(0,100%,68%); ;
     color: honeydew;
