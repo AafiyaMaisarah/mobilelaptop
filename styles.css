@@ -120,7 +120,7 @@ P{
         display:inline-block;
         position: absolute;
         top:160px;
-        left: 455px;
+        left: 700px;
         z-index:1
     }
     
@@ -138,7 +138,7 @@ P{
     display: inline-block;
     position:absolute;
     top:-96px;
-    left:445px;
+    left:725px;
     z-index:0;
    }
    .new{
@@ -209,7 +209,6 @@ P{
 }
     .list{
         display: inline-block;
-        margin-right: 5px;
         font-size: 20px;
         font-weight: bold;
         font-family: 'Bebas Neue', cursive;
@@ -218,7 +217,7 @@ P{
 
         position: absolute;
         top:20px;
-        left:570px;
+        left:760px;
         z-index:1;
         
     } 
