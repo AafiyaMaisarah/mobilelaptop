@@ -51,7 +51,7 @@ margin-left:48px;
     background-color: black;
     color: white;
     position: absolute;
-    top:540px;
+    top:700px;
     left:49px;
     border-radius: 20px;
     border: 0;
@@ -61,7 +61,7 @@ margin-left:48px;
     font-family: 'Trirong', serif;
     /* font-family: 'Cormorant Garamond', serif; */
     position: absolute;
-    top:540px;
+    top:700px;
     left:109px;
     letter-spacing: 2px;
     font-weight: lighter;
@@ -69,7 +69,7 @@ margin-left:48px;
 }
 .power{
     position: absolute;
-    top:570px;
+    top:740px;
     left:4px;
     font-family: 'Bebas Neue', cursive;
     font-size: 30px;
@@ -77,7 +77,7 @@ margin-left:48px;
 }
 .plan{
     position: absolute;
-    top:650px;
+    top:820px;
     left:54px;
     /* font-family: 'Trirong', serif; */
     color: hsl(231,7%,65%);
@@ -89,7 +89,7 @@ button{
     height: 5vh;
     border-radius: 5px;
     position: absolute;
-    top:695px;
+    top:870px;
     left:50px;
     background-color:hsl(0,100%,68%); ;
     color: honeydew;
@@ -101,7 +101,7 @@ button{
 }
 P{
     position: absolute;
-    top:695px;
+    top:870px;
     left:200px;
     color: hsl(231,7%,65%);
     font-size: 12px;
