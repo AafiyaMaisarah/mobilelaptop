@@ -89,7 +89,7 @@ button{
     height: 5vh;
     border-radius: 5px;
     position: absolute;
-    top:630px;
+    top:610px;
     left:50px;
     background-color:hsl(0,100%,68%); ;
     color: honeydew;
@@ -101,8 +101,8 @@ button{
 }
 P{
     position: absolute;
-    top:630px;
-    left:215px;
+    top:600px;
+    left:200px;
     color: hsl(231,7%,65%);
     font-size: 12px;
     font-family: 'Trirong', serif;
